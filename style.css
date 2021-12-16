@@ -1,6 +1,9 @@
+body {
+    background-color: red;
+}
 .icon-bar {
   width: 90px; 
-  background-color: #555; 
+  background-color: navy; 
 }
 
 .icon-bar a {
@@ -13,8 +16,8 @@
 }
 
 .icon-bar a:hover {
-  background-color: #000; 
+  background-color: aqua; 
 }
 
 .active {
-  background-color: #04AA6D; 
+  background-color: dimgray; 
